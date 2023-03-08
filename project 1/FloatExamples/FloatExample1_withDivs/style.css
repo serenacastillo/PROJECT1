@@ -1,0 +1,51 @@
+body {
+    background-color:black;
+    margin:0;
+    padding:0;
+}
+
+#container {
+    max-width: 1050px;
+    margin: 100px auto;
+    background-color:rgba(255,10,145,0.2);
+    padding: 25px;
+    overflow: auto;
+}
+
+#left {
+    width:500px;
+    float:left;
+    margin-right:50px;
+}
+
+#right {
+    width:500px;
+    float:left;
+
+}
+
+.bodyText {
+    background-color: white;
+    margin-top:0;
+    padding: 30px;
+}
+
+.button {
+    margin-bottom: 20px;
+    border-radius: 15px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.pink {
+    background-color:pink;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
